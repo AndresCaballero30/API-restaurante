@@ -1,0 +1,6 @@
+# Dependencies
+/node_modules
+/backend/server/node_modules
+
+# DB
+restaurante.db
